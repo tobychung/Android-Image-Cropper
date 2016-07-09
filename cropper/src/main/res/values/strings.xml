@@ -2,9 +2,9 @@
 <resources>
 
     <string name="crop_image_activity_title"></string>
-    <string name="crop_image_menu_rotate_left">Rotate counter clockwise</string>
-    <string name="crop_image_menu_rotate_right">Rotate</string>
-    <string name="crop_image_menu_crop">Crop</string>
-    <string name="pick_image_intent_chooser_title">Select source</string>
+    <string name="crop_image_menu_rotate_left">順時針旋轉</string>
+    <string name="crop_image_menu_rotate_right">旋轉</string>
+    <string name="crop_image_menu_crop">裁切</string>
+    <string name="pick_image_intent_chooser_title">相片選取</string>
 
 </resources>
